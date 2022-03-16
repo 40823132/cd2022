@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '我的課程倉儲: 40823132/cd2022 (github.com) \n \n', 'tags': '', 'url': 'About.html'}, {'title': 'W3 NX1980', 'text': '\n', 'tags': '', 'url': 'W3 NX1980.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '我的課程倉儲: 40823132/cd2022 (github.com) \n test \n \n', 'tags': '', 'url': 'About.html'}, {'title': 'W3 NX1980', 'text': '\n', 'tags': '', 'url': 'W3 NX1980.html'}]};
