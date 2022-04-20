@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>產品設計實習 - Misc</title><link href="https://40823132/cd2022/blog/" rel="alternate"></link><link href="https://40823132/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40823132/cd2022/blog/</id><updated>2022-03-15T23:34:22+08:00</updated><entry><title>2020 Fall CP 課程</title><link href="https://40823132/cd2022/blog/2020-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-03-15T23:34:22+08:00</updated><author><name>yen</name></author><id>tag:40823132,2020-08-13:/cd2022/blog/2020-Fall-Intro-to-computer-programming.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T10:57:14+08:00</updated><entry><title>2022 產品設計實習課程</title><link href="./w6_40823132.html.html" rel="alternate"></link><published>2022-03-30T10:45:00+08:00</published><updated>2022-04-20T10:57:14+08:00</updated><author><name>KMOL</name></author><id>tag:None,2022-03-30:./w6_40823132.html.html</id><summary type="html">&lt;p&gt;2022 產品設計實習課程.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 產品設計實習課程.&lt;/p&gt;
 
 
-&lt;h2&gt;Python&lt;/h2&gt;
-&lt;p&gt;Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI&lt;/p&gt;
-&lt;p&gt;Python 可以用來開發網際版的內容管理系統 CMSiMDE&lt;/p&gt;
-&lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
-&lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
-&lt;h2&gt;Flutter&lt;/h2&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry></feed>
+&lt;h2&gt;w1~W5 學習歷程&lt;/h2&gt;
+&lt;p&gt;W2~W3 分組並偕同建立大倉儲
+W4 分配NX1980教學影片並錄製WINK 記錄學習過程&lt;/p&gt;
+&lt;h2&gt;期中心得&lt;/h2&gt;
+&lt;p&gt;從第一周到現在，歷經了對我來說艱難的分組、無數的問題，
+因我的英文的素養不足，所以我到現在還沒看完所有的NX1980
+教學影片真是慚愧，今後我會想辦法補齊的。&lt;/p&gt;</content><category term="Misc"></category><category term="2022產品設計實習課程"></category></entry></feed>
